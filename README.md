@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
- <a href="https://github.com/Aryo07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryo07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Aryo07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryo07&layout=compact&theme=buefy&hide_border=true" /></a> |
+  <a href="https://github.com/Aryo07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryo07&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/Aryo07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryo07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |
 | ------------- | ------------- |
