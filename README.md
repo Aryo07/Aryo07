@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-![](https://github.com/Aryo07/Aryo07/blob/master/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aryo07&show_icons=true&theme=gotham" alt="Aryo07" />
