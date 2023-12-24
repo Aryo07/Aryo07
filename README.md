@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://github.com/Aryo07)
+[![Visits Badge](https://badges.pufler.dev/visits/Aryo07/badge-it)](https://github.com/Aryo07)
 
 | **Hi Welcome to My Repository** 👋 |
 | ------------- |
