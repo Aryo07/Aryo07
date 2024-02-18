@@ -24,5 +24,6 @@
 
 📈 my github stats
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryo07&show_icons=true&locale=en" alt="aryo07" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryo07&" alt="aryo07" /></p> |
-| ------------- | ------------- |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryo07&show_icons=true&locale=en" alt="aryo07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryo07&" alt="aryo07" /></p>
