@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryo Kesuma</h1>
-<h3 align="center">A passionate self-taught full stack web developer and a freelance software engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
+<h1 align="center">Hi 👋, I'm Aryo Kesuma</h1> 
+<h3 align="center">A passionate self-taught full stack web developer and freelance software engineer from Indonesia. My passion for software lies in dreaming up ideas and making them come true by building real-world projects. I take pride in writing clean, maintainable code and enjoy working with others to solve problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryo07&label=Profile%20views&color=0e75b6&style=flat" alt="aryo07" /> </p>
 
