@@ -17,16 +17,16 @@ I’m always eager to learn new technologies and bring innovative ideas to life.
 
 <h4 align="left">My Github Status:</h4>
 
-<div align="center" style="border:1px solid #e1e4e8; padding:16px; border-radius:8px; display:inline-block;">
+<div align="center" style="border:1px solid #e1e4e8; padding:12px; border-radius:8px; display:inline-block;">
     <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryo07&show_icons=true&locale=en" alt="aryo07" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryo07&show_icons=true&locale=en" alt="aryo07" width="320" />
     </a>
     &nbsp;
     <a>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryo07&" alt="aryo07" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryo07&" alt="aryo07" width="320" />
     </a>
     <br /><br />
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryo07&show_icons=true&locale=en&layout=compact" alt="aryo07" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryo07&show_icons=true&locale=en&layout=compact" alt="aryo07" width="320" />
     </p>
 </div>
